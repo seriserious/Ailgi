@@ -1,4 +1,1 @@
-Purple
-Red
-green
-Orange
+Purple Red Green Orange
